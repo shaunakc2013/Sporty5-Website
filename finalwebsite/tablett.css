@@ -1,0 +1,14 @@
+table {
+	width: 800px;
+}
+
+th {
+	text-align: center;
+}
+
+table, th,td {
+
+	border: 1px solid white;
+	padding: 5px 5px 5px 5px;
+	cellspacing: 5;
+}
